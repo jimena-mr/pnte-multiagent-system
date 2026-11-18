@@ -1,0 +1,10 @@
+.env
+*.env
+pnte_database.db
+__pycache__
+
+*.pyc
+/venv
+
+/postman
+*.postman
